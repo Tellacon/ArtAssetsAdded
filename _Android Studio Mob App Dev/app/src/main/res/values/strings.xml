@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MobileApplications</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_guild_menu">GuildMenu</string>
+    <string name="title_activity_about_menu">AboutMenu</string>
+    <string name="title_activity_settings_menu">SettingsMenu</string>
+    <string name="title_activity_guild_task_list">guildTaskList</string>
+    <string name="title_activity_guild_reward_list">guildRewardList</string>
+</resources>
